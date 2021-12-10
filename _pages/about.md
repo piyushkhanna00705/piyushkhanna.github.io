@@ -17,8 +17,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+It feels good to see you here!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm at the University of California San Diego, studying CS & AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I've worked as an AI researcher at MIDAS IIIT-Delhi, advised by Dr. Rajiv Ratn Shah (CS PhD, NUS Singapore), where I designed novel algorithms for neural quantitative trading and natural language processing.
+
+Before that, I was with the Indian government & built AI systems at their Intelligent Systems Group, where my work now potentially impacts over a million people across India.
+
+Over the past couple of years, I've had the fortune to work/collaborate with some of the brightest minds at CSIR (Govt. of India), IIIT-Delhi, Tower Research, NVIDIA, Samsung, LG Soft, ISRO, IIT-Jodhpur, MIT, Hiroshima University, and Vanderbilt University.
+
+Academically, I hold a Bachelor of Technology degree with a major in Information Technology (Applied CS) from GGSIPU, India, where the department honored me as one of their best students.
+
+When I'm not working, I like to travel, play the bass, design graphics, or replicate EDITH.
