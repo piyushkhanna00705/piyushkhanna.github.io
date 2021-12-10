@@ -184,7 +184,7 @@ jekyll-archives:
 scholar:
 
   last_name: Khanna
-  first_name: [Piyush, P.]
+  first_name: [Piyush, P., Piyush*]
 
   style: apa
   locale: en
